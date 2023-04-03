@@ -1,0 +1,4 @@
+1.Trigger:-
+->A trigger is a special type of stored procedure that automatically runs when an event occurs in the database server. DML triggers run when a user tries to modify data through a data manipulation language (DML) event. DML events are INSERT, UPDATE, or DELETE statements on a table.
+
+Example of a trigger could be the motion sensor on a security system. When the sensor detects movement, it triggers an alarm, alerting the homeowners or authorities that there may be a possible intrusion. The motion sensor is set up to monitor a specific area, and when there is any movement detected, it sends a signal to the alarm system to activate the alarm.

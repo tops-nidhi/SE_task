@@ -1,0 +1,10 @@
+1.Class :-
+-> Defination: class is collection of data member or member function.
+					OR
+		 : Class is blueprint of the object.
+2.Object :-
+-> Defination: Object is a insstance of the class.
+
+	For example Car: A car can be represented as a class in OOP. The class can have attributes such as make, model, year, and color, and methods such as start(), accelerate(), and stop(). Each individual car is an object of the Car class, with its own unique values for the attributes.
+
+

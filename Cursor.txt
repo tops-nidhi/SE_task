@@ -1,0 +1,4 @@
+1.Cursor
+
+For example,
+	Imagine you are working with a database that contains information about employees, including their names, salaries, and job titles. You want to generate a report that lists all employees and their current salaries, as well as their salaries after a 5% pay increase. You could use a cursor in SQL to loop through each employee record, calculate their new salary, and generate the report.

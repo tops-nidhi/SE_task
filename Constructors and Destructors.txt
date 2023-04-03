@@ -1,0 +1,16 @@
+1.Constructor:-
+->Constructor is use to create a new memory.Conctructor is generally use when we have to call member function compulsory.
+->Constructor is a member function of a class, whose name is same as the class name.
+->We don't need to initialize the constructor as other member function . Constructor is a special type of member function that is used to initialize the data members for an object of a class automatically, when an object of the same class is created.	
+->Constructor do not return value, hence they do not have a return type.
+ 
+Types of Constructor:
+    1. Default constructor
+    2. Parameterized constructor
+    3. Copy constructor
+
+2.Destructor:-
+->Destructor is use to destroy memory or manage the garbage/
+
+
+For example, We take user's address then compulsory we have to call city, state, zipcode, etc.

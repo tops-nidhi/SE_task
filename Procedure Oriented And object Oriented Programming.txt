@@ -1,0 +1,10 @@
+1. Procedure Oriented Programming :-
+->Defination: A programming paradigm that is based upon the concept of the procedure.
+
+	For example, imagine you are a chef cooking a meal. You would have a set of instructions for each step of the cooking process, such as chopping vegetables, seasoning the meat, and heating the oven. Each step is a procedure that takes input (the ingredients) and produces output (the cooked meal). In procedural programming, you would organize your code around these procedures, with a main function calling each procedure in order to create the finished meal.
+
+
+2. Object  Oriented Programming :-
+->Defination: A programming paradigm that is based on the concept of the object.
+	
+	For example, imagine you are a car manufacturer creating a new car model. You would define a class for the car, which would include properties such as the make, model, and color, as well as methods or behaviors such as accelerating, braking, and changing gears. Each instance of the car class would be an object with its own set of properties and behaviors. In OOP, you would organize your code around these objects, with each object having its own state and behavior that can be manipulated and interacted with.

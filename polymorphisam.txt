@@ -1,0 +1,37 @@
+1.Polymorphisam:-
+->Polymorphisam is a devide into two parts poly means 'many' and morphisam means for 'form'.
+-> Polymorphisam  is  a one name many forms.
+
+For example youtube, use of you tube you can learn, earn money, listen music, etc..
+
+Type:
+There are two types of polymorphisam
+1.Compile  time:
+->Compile time is the time period during which a program's source code is converted into an executable form.
+    a.Overlodding
+        I.Function Overlodding
+        	->Same name of Function, Same class but diffrent prameter.
+        II.Operator Overlodding(using Operator keyword)
+    b.Overriding
+        I.Function Overriding
+        	->Same name of Function, Same prameter but diffrent class.
+
+->Here's an example of how compile time works,
+Imagine you are a programmer working on a project to build an application that can control a robot. You are using a programming language such as C++ or Java to write the code for the application. Before the application can be run on the robot, you need to compile it into machine code.
+
+During compile time, the compiler checks the syntax and semantics of your code to ensure that it is valid. It looks for things like missing semicolons or parentheses, undefined variables, and type mismatches. If the code passes these checks, the compiler generates machine code that can be executed by the robot.
+
+2.Run time: 
+->Runtime is the period during which a program is executing and performing its tasks.
+    a.Virtual polymorphisam
+
+->Here's an example of how runtime works,
+Imagine you are a user of a video game, and you have just launched the game on your computer. During runtime, the game's code is executed and the game is played on your screen. Here are some of the things that happen during runtime:
+
+The game loads all the necessary assets such as images, sounds, and models into memory.
+
+The game initializes all the necessary data structures, such as player stats and game settings.
+
+The game draws the updated game state to the screen, creating the visual experience of playing the game.
+
+The game continues to run until the player decides to quit, at which point the game's runtime comes to an end.

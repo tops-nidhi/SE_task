@@ -1,0 +1,6 @@
+1.Encapsulation:-
+
+-> Defination:- Wrapping up the data.
+
+
+Example of encapsulation could be a bank account. A bank account is an example of a class that encapsulates data and functions related to a customer's account. The data that is encapsulated within the class includes the customer's name, account number, account balance, and other account-related details. The functions that are encapsulated within the class include depositing money, withdrawing money, checking the account balance, and other account-related functions.

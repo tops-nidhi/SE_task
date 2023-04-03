@@ -1,0 +1,5 @@
+1.Dynamic binding:
+
+Example of dynamic binding in routine life is when we are planning to go out with friends and have to decide where to go. We might have a few different options, such as going to a restaurant, seeing a movie, or going to a museum. The decision on where to go might depend on various factors, such as the weather, the time of day, or the preferences of the people we are with.
+
+In this scenario, the decision on where to go is determined at runtime based on the actual conditions and preferences of the group. This is similar to how dynamic binding works in programming, where the method or function to be executed is determined at runtime based on the actual type of the object being used.

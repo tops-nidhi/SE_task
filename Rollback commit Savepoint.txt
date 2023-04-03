@@ -1,0 +1,6 @@
+1.Rollback & Commit:-
+->: If everything looks good, you can commit the changes using the COMMIT statement. This tells the database to make the changes permanent. If something went wrong during the transaction, you can roll back the changes to the last savepoint or the beginning of the transaction using the ROLLBACK statement.
+
+
+2.Savepoint:-
+->Create a savepoint: If you want to create a checkpoint in your transaction, you can create a savepoint using the SAVEPOINT statement. This allows you to roll back to a specific point in the transaction if needed.

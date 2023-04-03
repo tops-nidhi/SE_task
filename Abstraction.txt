@@ -1,0 +1,7 @@
+1.Abstraction:-
+-> Defination:- Hiding the data which was unnecessary for users.
+
+
+Example of abstraction can be seen in a car. A car is a complex system with many components, such as the engine, transmission, suspension, brakes, and steering. However, when we drive a car, we don't need to know how each of these components works in detail. Instead, we interact with the car through a set of abstracted controls, such as the steering wheel, gas pedal, brake pedal, and gear shift.
+
+These controls provide an abstraction layer between the driver and the car's complex system. The driver can interact with the car using these controls without needing to know the inner workings of the car's engine, transmission, or other components. The driver can focus on the essential features of driving the car, such as steering, accelerating, and braking.
