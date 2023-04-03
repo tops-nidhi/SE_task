@@ -1,5 +1,8 @@
 Object oriented programming is a type of programming which uses objects and classes its functioning. The object oriented programming is based on real world entities like inheritance, polymorphism, data hiding, etc. It aims at binding together data and function work on these data sets into a single entity to restrict their usage.
 
+
+	For example, imagine you are a car manufacturer creating a new car model. You would define a class for the car, which would include properties such as the make, model, and color, as well as methods or behaviors such as accelerating, braking, and changing gears. Each instance of the car class would be an object with its own set of properties and behaviors. In OOP, you would organize your code around these objects, with each object having its own state and behavior that can be manipulated and interacted with.
+
 Some basic concepts of object oriented programming are −
 
 CLASS
