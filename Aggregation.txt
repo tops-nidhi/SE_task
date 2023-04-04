@@ -3,3 +3,6 @@
 
 lets take an example of employee and compnay:-
 ->A single employee can not belong to companies. but if company will be close, then employee object will not destroye.
+
+onther example is,
+-> samsung company earlier made 3g phones after 5g came they are making 5g and stop production of 4g phones so after stop production of 4g phones samsung company will not stop.
