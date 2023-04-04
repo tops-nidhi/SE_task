@@ -1,6 +1,10 @@
  Aggregation:-
 -> Aggregation is specialform of association where all object have their own lifecycle but there is a owenwership like perent ans child. child object can not bellong to another parent object at same time. We can think of it as 'has-a' relationship.
 
+Example of aggrigation is,
+->A Library contains students and books. Relationship between library and student is aggregation.
+
+
 lets take an example of employee and compnay:-
 ->A single employee can not belong to companies. but if company will be close, then employee object will not destroye.
 
