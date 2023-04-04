@@ -6,6 +6,9 @@ Defination:-
 ->Child(Derived) class uses Perentclass property
 ->Object will defined for only last inherited class
 
+Example of inheritance,
+->If some one come to contractor and say i want to add 1 more bedroom and 1floor then we add it into our redy made structure not recreate all things.
+
 ->For example the passing down of family traditions and customs. For instance, a family may have a tradition of celebrating a certain holiday in a specific way, such as making a particular dish or playing a certain game. This tradition is passed down from generation to generation, and each member of the family learns to appreciate and participate in it.
 
 ->Inheritance can also refer to the passing down of physical traits from one generation to the next. For example, children may inherit their eye color, height, or hair type from their parents.
