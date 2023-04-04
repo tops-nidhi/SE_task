@@ -11,3 +11,4 @@ ENCAPSULATION
 POLYMORPHISM
 INHERITANCE
 ABSTRACTION
+(note: all of this concepte's example in their specific file.)
