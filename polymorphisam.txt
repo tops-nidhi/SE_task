@@ -11,7 +11,14 @@ There are two types of polymorphisam
     a.Overlodding
         I.Function Overlodding
         	->Same name of Function, Same class but diffrent prameter.
+            Example of Function Overlodding,
+            ->In this example they (that contractor) hire some painter who knows only painting. If this contractor provides different types of building to this painter then he has to do the work. In this way we can achieve overloading.
+            
         II.Operator Overlodding(using Operator keyword)
+        Example of Operator Overlodding is,
+        ->In this example first brush is used to give a color and after finishing color of whole house, this brush gets cleaned by using water & used for removing shadu from small surface area like between two edges, below furniture, between pop design of hall, corners , etc.
+
+        ->In this case brush is used as an operator.
     b.Overriding
         I.Function Overriding
         	->Same name of Function, Same prameter but diffrent class.
