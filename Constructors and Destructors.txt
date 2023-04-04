@@ -8,6 +8,10 @@ Types of Constructor:
     1. Default constructor
     2. Parameterized constructor
     3. Copy constructor
+    
+Example of constructor is,
+-> For example,If we build a house there is default we build kitchen, hall and bedroom.
+And Parameterized constructor is like, if buyer wants to add some functionality like gallery in bedroom, or some pop in hall design.
 
 2.Destructor:-
 ->Destructor is use to destroy memory or manage the garbage/
