@@ -20,7 +20,9 @@ class class_name
     //body of class
 };		 
 		 
-		 
+Example of class is, 
+->It is a blue print such as if we bought a land / space & would like to build a beautiful house on that land then we first draw a sketch.
+
 		 
 2.Object :-
 -> Defination: Object is a insstance of the class.
@@ -38,6 +40,9 @@ int main()
 {
     class_name object_name;
 }
+
+Example of object is,
+-> Acording to blue print we create a  bulding or house.
 
 
 
